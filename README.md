@@ -57,4 +57,6 @@ intelligent-logistics-engine/
 
 └── README.md               # Project documentation
 
-<img width="1891" height="847" alt="image" src="https://github.com/user-attachments/assets/7855a054-0301-4a67-884b-b47a112b40db" />
+<img width="1915" height="889" alt="image" src="https://github.com/user-attachments/assets/6ad807f1-2d82-452a-909c-661acd42b44d" />
+<img width="896" height="648" alt="image" src="https://github.com/user-attachments/assets/f44d515c-8903-417c-8803-ba8777a03b9a" />
+
