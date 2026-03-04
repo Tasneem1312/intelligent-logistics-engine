@@ -40,11 +40,21 @@ An enterprise-grade routing optimization engine built to solve the **Capacitated
 **📁 Project Structure**
 
 intelligent-logistics-engine/
+
 ├── data/                   # (Optional) Static datasets
+
 ├── src/                    # Core engine modules
+
 │   ├── data_generator.py   # Synthetic node generation 
+
 │   ├── distance_calc.py    # Haversine matrix mathematics
+
 │   └── optimizer.py        # OR-Tools CVRP solver logic
+
 ├── app.py                  # Streamlit dashboard and UI
+
 ├── requirements.txt        # Environment dependencies
+
 └── README.md               # Project documentation
+
+<img width="1891" height="847" alt="image" src="https://github.com/user-attachments/assets/7855a054-0301-4a67-884b-b47a112b40db" />
